@@ -12,8 +12,13 @@ public interface employeeDAO {
 	boolean deleteUser(Employee user);
 
 	Employee getUser(int userId);
+	int getMaxSalary(Employee user);
+	int getMinSalary(Employee user);
+	int getSecondMaxSalary(Employee user);
+	int getSecondMinSalary(Employee user);
+	int getAvgSalary(Employee user);
 
-	List<Employee> listAll();
+	
 	
 
 }
