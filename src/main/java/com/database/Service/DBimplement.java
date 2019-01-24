@@ -12,7 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class DBimplement implements employeeDAO {
 
-	static Logger logger = Logger.getLogger(DBimplement.class.getName());
+	
 	@Override
 	public boolean addUser(Employee user) {
 		DBoperation dbOperations = new DBoperation();
@@ -50,8 +50,8 @@ public class DBimplement implements employeeDAO {
 			dbOperations.deleteData(user);
 			log.info("User Deleted");
 		} catch (SQLException e) {
-			log.warn("User Not Deleted");
 			e.printStackTrace();
+			log.warn("User Not Deleted");
 		}
 		return true;
 	}

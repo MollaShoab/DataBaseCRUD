@@ -47,3 +47,39 @@
 2019-01-24 15:13:19,223 [main] INFO  DBConnection:21 - connection created.
 2019-01-24 15:14:41,328 [main] INFO  DBConnection:21 - connection created.
 2019-01-24 15:16:08,446 [main] INFO  DBConnection:21 - connection created.
+2019-01-24 18:14:10,157 [main] INFO  DBConnection:21 - connection created.
+2019-01-24 18:14:10,446 [main] INFO  OrderImplement:20 - New User Created
+2019-01-24 18:17:48,920 [main] INFO  DBimplement:65 - User was Fetched
+2019-01-24 18:17:50,034 [main] INFO  DBConnection:21 - connection created.
+2019-01-24 18:17:50,319 [main] INFO  DBimplement:85 - Max Salary was Fetched
+2019-01-24 18:17:50,322 [main] INFO  DBimplement:149 - Average Salary was Fetched
+2019-01-24 18:17:50,647 [main] INFO  DBimplement:51 - User Deleted
+2019-01-24 18:17:50,659 [main] INFO  DBimplement:117 - Second Max Salary was Fetched
+2019-01-24 18:17:50,665 [main] INFO  DBimplement:133 - Second Minimum Salary was Fetched
+2019-01-24 18:17:50,669 [main] INFO  DBimplement:101 - Min Salary was Fetched
+2019-01-24 18:18:18,830 [main] INFO  DBimplement:65 - User was Fetched
+2019-01-24 18:18:19,945 [main] INFO  DBConnection:21 - connection created.
+2019-01-24 18:18:20,218 [main] INFO  DBimplement:85 - Max Salary was Fetched
+2019-01-24 18:18:20,232 [main] INFO  DBimplement:149 - Average Salary was Fetched
+2019-01-24 18:18:20,266 [main] INFO  DBimplement:51 - User Deleted
+2019-01-24 18:18:20,272 [main] INFO  DBimplement:117 - Second Max Salary was Fetched
+2019-01-24 18:18:20,274 [main] INFO  DBimplement:133 - Second Minimum Salary was Fetched
+2019-01-24 18:18:20,276 [main] INFO  DBimplement:101 - Min Salary was Fetched
+2019-01-24 18:18:36,881 [main] INFO  DBimplement:65 - User was Fetched
+2019-01-24 18:18:37,973 [main] INFO  DBConnection:21 - connection created.
+2019-01-24 18:18:38,250 [main] INFO  DBimplement:85 - Max Salary was Fetched
+2019-01-24 18:18:38,252 [main] INFO  DBimplement:149 - Average Salary was Fetched
+2019-01-24 18:18:38,254 [main] INFO  DBimplement:51 - User Deleted
+2019-01-24 18:18:38,259 [main] INFO  DBimplement:117 - Second Max Salary was Fetched
+2019-01-24 18:18:38,262 [main] INFO  DBimplement:133 - Second Minimum Salary was Fetched
+2019-01-24 18:18:38,264 [main] INFO  DBimplement:101 - Min Salary was Fetched
+2019-01-24 18:20:21,278 [main] INFO  DBimplement:66 - User was Fetched
+2019-01-24 18:20:22,384 [main] INFO  DBConnection:21 - connection created.
+2019-01-24 18:20:22,650 [main] INFO  DBimplement:86 - Max Salary was Fetched
+2019-01-24 18:20:22,654 [main] INFO  DBimplement:150 - Average Salary was Fetched
+2019-01-24 18:20:22,658 [main] INFO  DBimplement:51 - User Deleted
+2019-01-24 18:20:22,664 [main] INFO  DBimplement:118 - Second Max Salary was Fetched
+2019-01-24 18:20:22,668 [main] INFO  DBimplement:134 - Second Minimum Salary was Fetched
+2019-01-24 18:20:22,670 [main] INFO  DBimplement:102 - Min Salary was Fetched
+2019-01-24 18:21:22,949 [main] INFO  DBConnection:21 - connection created.
+2019-01-24 18:21:23,133 [main] INFO  OrderImplement:20 - New User Created
