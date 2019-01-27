@@ -83,3 +83,102 @@
 2019-01-24 18:20:22,670 [main] INFO  DBimplement:102 - Min Salary was Fetched
 2019-01-24 18:21:22,949 [main] INFO  DBConnection:21 - connection created.
 2019-01-24 18:21:23,133 [main] INFO  OrderImplement:20 - New User Created
+2019-01-27 15:44:28,706 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 15:44:29,029 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 15:47:12,272 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 15:47:12,840 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 15:56:43,851 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 15:56:44,134 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:08:36,407 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:08:36,702 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:11:43,128 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:11:43,609 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:12:24,261 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:12:24,907 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:13:07,348 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:13:07,965 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:13:51,886 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:13:52,645 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:28:38,187 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:28:38,465 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:29:53,720 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:29:53,999 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:31:50,064 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:31:50,327 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:33:43,490 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:33:43,844 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:34:19,815 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:34:20,104 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:35:15,985 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:35:16,703 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:36:20,740 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:36:21,024 [main] WARN  OrderImplement:48 - User was not Created
+2019-01-27 16:38:06,014 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:38:06,554 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:47:57,916 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:47:58,587 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:51:10,623 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:51:11,196 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:51:11,213 [main] WARN  OrderImplement:62 - Join was not Done
+2019-01-27 16:52:20,654 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:52:21,355 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:52:21,355 [main] WARN  OrderImplement:62 - Join was not Done
+2019-01-27 16:55:17,615 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 16:55:18,147 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 16:55:18,165 [main] INFO  OrderImplement:60 - Join Is done
+2019-01-27 17:03:28,072 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:03:28,727 [main] INFO  OrderImplement:74 - Join Is done
+2019-01-27 17:03:28,743 [main] INFO  OrderImplement:46 - Join Is done
+2019-01-27 17:03:28,743 [main] INFO  OrderImplement:60 - Join Is done
+2019-01-27 17:11:28,038 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:11:28,370 [main] INFO  OrderImplement:82 - Join Is done
+2019-01-27 17:11:28,385 [main] INFO  OrderImplement:54 - Join Is done
+2019-01-27 17:11:28,385 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:11:28,385 [main] INFO  OrderImplement:68 - Join Is done
+2019-01-27 17:13:10,382 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:13:10,698 [main] INFO  OrderImplement:48 - Join Is done
+2019-01-27 17:13:10,698 [main] INFO  OrderImplement:90 - Join Is done
+2019-01-27 17:13:10,714 [main] INFO  OrderImplement:62 - Join Is done
+2019-01-27 17:13:10,714 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:13:10,714 [main] INFO  OrderImplement:76 - Join Is done
+2019-01-27 17:16:07,396 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:16:07,712 [main] INFO  OrderImplement:48 - Join Is done
+2019-01-27 17:16:07,712 [main] INFO  OrderImplement:90 - Join Is done
+2019-01-27 17:16:07,766 [main] INFO  OrderImplement:20 - New User Created
+2019-01-27 17:16:07,766 [main] INFO  OrderImplement:62 - Join Is done
+2019-01-27 17:16:07,766 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:16:07,766 [main] INFO  OrderImplement:76 - Join Is done
+2019-01-27 17:17:06,617 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:17:06,934 [main] INFO  OrderImplement:48 - Join Is done
+2019-01-27 17:17:06,934 [main] INFO  OrderImplement:90 - Join Is done
+2019-01-27 17:17:07,003 [main] INFO  OrderImplement:20 - New User Created
+2019-01-27 17:17:07,018 [main] INFO  OrderImplement:62 - Join Is done
+2019-01-27 17:17:07,018 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:17:07,018 [main] INFO  OrderImplement:76 - Join Is done
+2019-01-27 17:26:06,525 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:26:06,882 [main] INFO  OrderImplement:48 - Join Is done
+2019-01-27 17:26:06,889 [main] INFO  OrderImplement:90 - Join Is done
+2019-01-27 17:26:06,893 [main] INFO  OrderImplement:62 - Join Is done
+2019-01-27 17:26:06,897 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:26:06,899 [main] INFO  OrderImplement:76 - Join Is done
+2019-01-27 17:36:27,178 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:36:27,495 [main] INFO  OrderImplement:48 - Join Is done
+2019-01-27 17:36:27,510 [main] INFO  OrderImplement:104 - Ordering Is done
+2019-01-27 17:36:27,510 [main] INFO  OrderImplement:90 - Join Is done
+2019-01-27 17:36:27,510 [main] INFO  OrderImplement:62 - Join Is done
+2019-01-27 17:36:27,510 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:36:27,526 [main] INFO  OrderImplement:76 - Join Is done
+2019-01-27 17:38:45,083 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:38:45,553 [main] INFO  OrderImplement:48 - Join Is done
+2019-01-27 17:38:45,569 [main] WARN  OrderImplement:106 - Ordering is not Done
+2019-01-27 17:38:45,578 [main] INFO  OrderImplement:90 - Join Is done
+2019-01-27 17:38:45,578 [main] INFO  OrderImplement:62 - Join Is done
+2019-01-27 17:38:45,578 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:38:45,578 [main] INFO  OrderImplement:76 - Join Is done
+2019-01-27 17:41:32,372 [main] INFO  DBConnection:21 - connection created.
+2019-01-27 17:41:32,764 [main] INFO  OrderImplement:48 - Join Is done
+2019-01-27 17:41:32,773 [main] INFO  OrderImplement:104 - Ordering Is done
+2019-01-27 17:41:32,776 [main] INFO  OrderImplement:90 - Join Is done
+2019-01-27 17:41:32,778 [main] INFO  OrderImplement:62 - Join Is done
+2019-01-27 17:41:32,782 [main] INFO  OrderImplement:34 - Join Is done
+2019-01-27 17:41:32,787 [main] INFO  OrderImplement:76 - Join Is done
